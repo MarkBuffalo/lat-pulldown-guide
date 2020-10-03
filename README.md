@@ -14,7 +14,7 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
    * [Step Three: Choosing a Lat Attachment](#step-three-choosing-a-lat-attachment)
       * [Your options include:](#your-options-include)
    * [Step Four: Installation](#step-four-installation)
-         * [Here's the bolt installation order:](#heres-the-bolt-installation-order)
+      * [Here's the bolt installation order:](#heres-the-bolt-installation-order)
    * [Step Five: Safety Considerations](#step-five-safety-considerations)
       * [Here are some alternatives:](#here-are-some-alternatives)
    * [Additional Options](#additional-options)
