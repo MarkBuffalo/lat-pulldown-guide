@@ -14,7 +14,7 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
    * [Step Three: Choosing a Lat Attachment](#step-three-choosing-a-lat-attachment)
       * [Tall or Short](#Tall-or-short)
    * [Step Four: Installation](#step-four-installation)
-      * [Here's the bolt installation order:](#heres-the-bolt-installation-order)
+      * [Bolt installation order:](#bolt-installation-order)
    * [Step Five: Safety Considerations](#step-five-safety-considerations)
       * [Safety alternatives:](#safety-alternatives)
    * [Additional Options](#additional-options)
@@ -68,7 +68,7 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 ![Extra washers to create spacing](https://i.imgur.com/ljmrZFN.jpg)
 
-### Here's the bolt installation order:
+### Bolt installation order:
 
 ```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
 
