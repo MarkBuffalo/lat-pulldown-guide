@@ -112,15 +112,14 @@ Buy these:
 - 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
 - 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
 - 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
-- (OPTIONAL, but Recommended for Safety) Gorilla tape & Sharp Edge Padding, OR a Rear Base Stabilizer
+- **(OPTIONAL, but Recommended for Safety)** Gorilla tape & Sharp Edge Padding, OR a Rear Base Stabilizer
 
-Choose a size:
+Choose a pulldown height:
 
 1) 88.5" High - Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/lat-tower-tall-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401036.html
 2) 78" High - Short Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/t-3-series/lat-tower-short-height-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401035.html
 
-And screw them together:
-
+Follow titan instructions, then screw them together:
 
 ```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
 
