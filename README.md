@@ -102,3 +102,25 @@ As you can see, I'm using the AB-3000 to seat myself for seated pulldowns.
 ![Lat Pulldown](https://i.imgur.com/C5OYbmi.jpg)
 
 ![Lat Pulldown Side View](https://i.imgur.com/Ycdk3JC.jpg)
+
+# TLDR
+
+Buy these:
+
+- 25x AE flat washers, Zinc plated grade 5 steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=15035 (I bought 50 for spares). I suggest buying 50 because you will need 24 total for both crossmmebers, and you will want some left over.
+- 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
+- 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
+- 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
+- (OPTIONAL, but Recommended for Safety) Gorilla tape & Sharp Edge Padding, OR a Rear Base Stabilizer
+
+Choose a size:
+
+1) 88.5" High - Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/lat-tower-tall-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401036.html
+2) 78" High - Short Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/t-3-series/lat-tower-short-height-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401035.html
+
+And screw them together:
+
+
+```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
+
+![Extra washers to create spacing](https://i.imgur.com/0sShzv4.png)
