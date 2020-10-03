@@ -44,13 +44,15 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 - For mounting to the rogue rack, use the hardware listed in `Step Two` instead of Titan's hardware. For everything else, use Titan hardware.
 
-You will want a big washer between the hex bolts and the rack. This protects your rack. Example below:
+- You will want a big washer between the hex bolts and the rack. This protects your rack. Example below:
 
 ![Bolt and washer](https://i.imgur.com/bKPhJxj.jpg)
 
 - You will need to add two washers between each upright on the INSIDE, before it connects the Rogue rack to the Titan crossmembers. An example is in this image (note the position of the lock washers and the nuts as well):
 
 ![Extra washers to create spacing](https://i.imgur.com/ljmrZFN.jpg)
+
+Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut
 
 
 # Step Five: Safety Considerations
