@@ -118,7 +118,7 @@ Choose a pulldown height:
 1) 88.5" High - Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/lat-tower-tall-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401036.html
 2) 78" High - Short Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/t-3-series/lat-tower-short-height-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401035.html
 
-Follow titan instructions, then screw them together:
+Follow titan instructions, then screw the attachment and rack together:
 
 ```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
 
