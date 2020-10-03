@@ -77,9 +77,9 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 # Step Five: Safety Considerations
 
-The low row attachment has foot pedals that are "sharp." Such that if someone were to fall on them neck-first, they could die easily. Kids are prone to tripping and other foolish, spatially-unaware issues. This is why I suggest not putting up the pads. 
+The low row attachment has foot pedals that are "sharp." Such that if someone were to fall on them neck-first, they could die easily. Kids are prone to tripping and other foolish, spatially-unaware issues. This is why I suggest not putting up the pads if you have kids, or if you're clumsy. You're one trip away from a bad day or a funeral. 
 
-Again, I don't know what Titan was thinking by having these row pedals, but you don't have to install them. 
+Again, I don't know what Titan was thinking by having these row pedals, but you don't have to install them. Here are some safer options:
 
 ## Safety alternatives:
 
