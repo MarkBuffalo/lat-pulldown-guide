@@ -19,6 +19,7 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
       * [Safety alternatives:](#safety-alternatives)
    * [Additional Options](#additional-options)
    * [Finished Product](#finished-product)
+   * [Too Long, Didn't Read](#tldr)
 
 
 
