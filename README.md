@@ -36,7 +36,7 @@ As a comparison, with a 90" rack and at 6'8", I can sit down in a bench and grab
 
 I have personally only tested the tall one. 
 
-Note that crossmembers come with each attachment, so you don't need to buy an extra. However, for `Safety` reasons I suggest buying a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) if you don't have one already. 
+Note that crossmembers come with each attachment, so you don't need to buy an extra. However, for `Safety` reasons I suggest buying a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) if you don't have one already. This prevents tripping on "sharp" foot pedals. I don't know what Titan was thinking by having these row pedals, but you don't have to install them. Instead, you can use a rear base stabilizer or some padding. See below for Safety Considerations.
 
 # Step Four: Installation
 
