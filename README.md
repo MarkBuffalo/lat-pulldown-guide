@@ -36,7 +36,7 @@ If you have a Rogue Monster Lite rack such as an RML-490, RML-690, proceed with 
 2) 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
 3) 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
 4) 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
-5) (OPTIONAL, but Recommended for Safety) Gorilla tape & Sharp Edge Padding, OR a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) 
+5) **(OPTIONAL, but Recommended for Safety)** Gorilla tape & Sharp Edge Padding, OR a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) 
 
 Before shipping costs, the price of these bolts should be less than $45. If you go through Rogue, you will pay $30 and only get 4 bolts. Bad deal. I paid $48.78 for the extra quantities listed above.
 
