@@ -8,10 +8,9 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
 
 # Step One: Compatibility
 
-Answer the following questions:
+Answer the following question:
 
 1) Do you have a non-flat foot Rogue Monster Lite rack? If so, continue. If not, this guide is not meant for you. 
-2) Is your rack 43" wide? If so, continue. If not, this guide is not meant for you.
 
 # Step Two: Hardware Purchase List
 
