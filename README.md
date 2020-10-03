@@ -32,11 +32,10 @@ As a comparison, with a 90" rack and at 6'8", I can sit down in a bench and grab
 
 ## Your options include:
 
-1) 88.5" Tall Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/lat-tower-tall-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401036.html
-2) 78" Tall - Short Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/t-3-series/lat-tower-short-height-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401035.html
-3) 78" Tall - Normal Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/x-2-series/power-rack-lat-tower-attachment-%7C-x-2-or-t-3-series-compatible/PRLATTWR.html
+1) 88.5" High - Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/lat-tower-tall-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401036.html
+2) 78" High - Short Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/t-3-series/lat-tower-short-height-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401035.html
 
-I have personally only tested the tall one. The second and third options, Short/Normal, seem to be about the same height. Odd. 
+I have personally only tested the tall one. 
 
 Note that crossmembers come with each attachment, so you don't need to buy an extra. However, for `Safety` reasons I suggest buying a Rear Base Stabilizer if you don't have one already. 
 
