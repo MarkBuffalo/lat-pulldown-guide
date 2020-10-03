@@ -36,7 +36,7 @@ As a comparison, with a 90" rack and at 6'8", I can sit down in a bench and grab
 
 I have personally only tested the tall one. 
 
-Note that crossmembers come with each attachment, so you don't need to buy an extra. However, for `Safety` reasons I suggest buying a Rear Base Stabilizer if you don't have one already. 
+Note that crossmembers come with each attachment, so you don't need to buy an extra. However, for `Safety` reasons I suggest buying a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) if you don't have one already. 
 
 # Step Four: Installation
 
