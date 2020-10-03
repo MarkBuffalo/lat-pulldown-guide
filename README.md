@@ -26,7 +26,7 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
 
 Answer the following question:
 
-1) Do you have a non-flat foot Rogue Monster Lite rack? If so, continue. If not, this guide is not meant for you. 
+1) Do you have a non-flat foot Rogue Monster Lite rack with 4 or more uprights (490/690/custom)? If so, continue. If not, this guide is not meant for you. 
 
 # Step Two: Hardware Purchase List
 
