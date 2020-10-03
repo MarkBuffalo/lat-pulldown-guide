@@ -60,7 +60,7 @@ The low row attachment has foot pedals that are "sharp." Such that if someone we
 ## Here are some alternatives:
 
 1) You put up the pads, but use sharp-edge padding and gorilla tape it on. Go to Amazon.com and type in "sharp edge padding." You can glue and tape these to the pedal edges. I strongly suggest doing this if you have kids.
-2) Use one of Rogue's Rear Base Stabilizers and put it on top of the crossmember. You can rest your feet on these easily. 
+2) Use one of Rogue's Rear Base Stabilizers and put it on top of the bottom titan crossmember. You can rest your feet on these easily. 
 
 # Additional Options
 
