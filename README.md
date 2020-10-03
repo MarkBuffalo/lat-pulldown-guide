@@ -52,7 +52,9 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 ![Extra washers to create spacing](https://i.imgur.com/ljmrZFN.jpg)
 
-Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut
+### Here's the bolt installation order:
+
+```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
 
 ![Extra washers to create spacing](https://i.imgur.com/0sShzv4.png)
 
