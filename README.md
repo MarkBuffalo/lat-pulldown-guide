@@ -12,7 +12,7 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
    * [Step One: Compatibility](#step-one-compatibility)
    * [Step Two: Hardware Purchase List](#step-two-hardware-purchase-list)
    * [Step Three: Choosing a Lat Attachment](#step-three-choosing-a-lat-attachment)
-      * [Your options include:](#your-options-include)
+      * [Tall or Short](#Tall-or-short)
    * [Step Four: Installation](#step-four-installation)
       * [Here's the bolt installation order:](#heres-the-bolt-installation-order)
    * [Step Five: Safety Considerations](#step-five-safety-considerations)
@@ -45,7 +45,7 @@ Please read this section carefully. Some of y'all have 90" racks, others 110". Y
 
 As a comparison, with a 90" rack and at 6'8", I can sit down in a bench and grab the lat pulldown handles IF they aren't racked on the bar. Otherwise, I have to stand up and "sit down" with it. 
 
-## Your options include:
+## Tall or Short:
 
 1) 88.5" High - Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/lat-tower-tall-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401036.html
 2) 78" High - Short Lat Tower Attachment: https://www.titan.fitness/racks/rack-accessories/t-3-series/lat-tower-short-height-rack-attachment-%E2%80%93-x-2%2C-x-3%2C-and-t-3-series-power-rack-compatible/401035.html
