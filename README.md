@@ -6,6 +6,22 @@ You may have noticed that the Titan rack is 42", while most rogue monster lite r
 
 Fortunately, while titan products aren't always compatible with rogue's due to differing hole sizes, Titan's pulldown attachment crossmembers have a lot of room for different bolt sizes. You still need to make up the 1" difference between the posts. This guide will teach you how to do both.
 
+# Table of Contents
+
+   * [Lat Pulldown Guide](#lat-pulldown-guide)
+   * [Step One: Compatibility](#step-one-compatibility)
+   * [Step Two: Hardware Purchase List](#step-two-hardware-purchase-list)
+   * [Step Three: Choosing a Lat Attachment](#step-three-choosing-a-lat-attachment)
+      * [Your options include:](#your-options-include)
+   * [Step Four: Installation](#step-four-installation)
+         * [Here's the bolt installation order:](#heres-the-bolt-installation-order)
+   * [Step Five: Safety Considerations](#step-five-safety-considerations)
+      * [Here are some alternatives:](#here-are-some-alternatives)
+   * [Additional Options](#additional-options)
+   * [Finished Product](#finished-product)
+
+
+
 # Step One: Compatibility
 
 Answer the following question:
