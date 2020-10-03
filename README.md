@@ -79,6 +79,8 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 The low row attachment has foot pedals that are "sharp." Such that if someone were to fall on them neck-first, they could die easily. Kids are prone to tripping and other foolish, spatially-unaware issues. This is why I suggest not putting up the pads. 
 
+Again, I don't know what Titan was thinking by having these row pedals, but you don't have to install them. 
+
 ## Here are some alternatives:
 
 1) You put up the pads, but use sharp-edge padding and gorilla tape it on. Go to Amazon.com and type in "sharp edge padding." You can glue and tape these to the pedal edges. I strongly suggest doing this if you have kids.
