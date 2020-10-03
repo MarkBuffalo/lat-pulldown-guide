@@ -8,7 +8,6 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
 
 # Table of Contents
 
-   * [Lat Pulldown Guide](#lat-pulldown-guide)
    * [Step One: Compatibility](#step-one-compatibility)
    * [Step Two: Hardware Purchase List](#step-two-hardware-purchase-list)
    * [Step Three: Choosing a Lat Attachment](#step-three-choosing-a-lat-attachment)
