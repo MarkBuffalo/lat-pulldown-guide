@@ -72,7 +72,7 @@ Here's what mine looks like:
 
 ![Lat Pulldown with AB-3000](https://i.imgur.com/QtHTcRD.jpg)
 
-As you can see, I'm using the AB-3000 to set myself for seated pulldowns.
+As you can see, I'm using the AB-3000 to seat myself for seated pulldowns.
 
 ![Lat Pulldown](https://i.imgur.com/C5OYbmi.jpg)
 
