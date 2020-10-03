@@ -36,6 +36,7 @@ If you have a Rogue Monster Lite rack such as an RML-490, RML-690, proceed with 
 2) 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
 3) 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
 4) 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
+5) (OPTIONAL, but Recommended for Safety) Gorilla tape & Sharp Edge Padding, OR a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) 
 
 Before shipping costs, the price of these bolts should be less than $45. If you go through Rogue, you will pay $30 and only get 4 bolts. Bad deal. I paid $48.78 for the extra quantities listed above.
 
@@ -79,7 +80,7 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 The low row attachment has foot pedals that are "sharp." Such that if someone were to fall on them neck-first, they could die easily. Kids are prone to tripping and other foolish, spatially-unaware issues. This is why I suggest not putting up the pads if you have kids, or if you're clumsy. You're one trip away from a bad day or a funeral. 
 
-Again, I don't know what Titan was thinking by having these row pedals, but you don't have to install them. Here are some safer options:
+Again, I don't know what Titan was thinking by making these row pedals, but you don't have to install them. You could also install them, but add safety padding. Here are some safer options:
 
 ## Safety alternatives:
 
