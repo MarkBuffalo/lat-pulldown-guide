@@ -75,6 +75,8 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 ![Extra washers to create spacing](https://i.imgur.com/0sShzv4.png)
 
+> (2-3 flat washers, not 2, despite graphic)
+
 
 # Step Five: Safety Considerations
 
@@ -123,3 +125,5 @@ Follow titan instructions, then screw the attachment and rack together:
 ```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x3 (2x if 3 don't fit) -> Titan Crossmember -> Lock Washer -> Nut```
 
 ![Extra washers to create spacing](https://i.imgur.com/0sShzv4.png)
+
+> (2-3 flat washers, not 2, despite graphic)
