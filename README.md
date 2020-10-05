@@ -32,13 +32,13 @@ Answer the following question:
 
 If you have a Rogue Monster Lite rack such as an RML-490, RML-690, proceed with the following purchases:
 
-1) 25x AE flat washers, Zinc plated grade 5 steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=15035 (I bought 50 for spares). I suggest buying 50 because you will need 24 total for both crossmmebers, and you will want some left over.
+1) 50x AE flat washers, Zinc plated grade 5 steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=15035 (I bought 50 for spares; you'll need at least 36). I suggest buying 50. You will want some left over.
 2) 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
 3) 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
 4) 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
 5) **(OPTIONAL, but Recommended for Safety)** Gorilla tape & Sharp Edge Padding, OR a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) 
 
-Before shipping costs, the price of these bolts should be less than $45. If you go through Rogue, you will pay $30 and only get 4 bolts. Bad deal. I paid $48.78 for the extra quantities listed above.
+Before shipping costs, if you go through Rogue, you will pay $30 and only get 4 bolts. Bad deal. I paid $48.78 for the extra quantities listed above.
 
 #  Step Three: Choosing a Lat Attachment
 
@@ -107,11 +107,11 @@ As you can see, I'm using the AB-3000 to seat myself for seated pulldowns.
 
 Buy these:
 
-- 25x AE flat washers, Zinc plated grade 5 steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=15035 (I bought 50 for spares). I suggest buying 50 because you will need 24 total for both crossmmebers, and you will want some left over.
-- 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
-- 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
-- 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
-- **(OPTIONAL, but Recommended for Safety)** Gorilla tape & Sharp Edge Padding, OR a Rear Base Stabilizer
+1) 50x AE flat washers, Zinc plated grade 5 steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=15035 (I bought 50 for spares; you'll need at least 36). I suggest buying 50. You will want some left over.
+2) 25x Hex nuts, Zinc plated grade 5 steel, 5/8"-11 - https://www.boltdepot.com/Product-Details.aspx?product=2574
+3) 25x Hex bolts, Zinc plated grade 5 steel, 5/8"-11 x 4-1/2". Bag(25) - https://www.boltdepot.com/Product-Details.aspx?product=431
+4) 25x Lock washers, Zinc plated steel, 5/8" - https://www.boltdepot.com/Product-Details.aspx?product=3030 (I bought 100 because cheap/for spares)
+5) **(OPTIONAL, but Recommended for Safety)** Gorilla tape & Sharp Edge Padding, OR a [Rear Base Stabilizer](https://www.roguefitness.com/monster-lite-stabilizer-kit) 
 
 Choose a pulldown height:
 
