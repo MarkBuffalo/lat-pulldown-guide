@@ -1,6 +1,6 @@
 # Titan to Rogue Monster Lite - Lat Pulldown Guide
 
-This guide explains how you can successfully install a Titan X-3 Lat Pulldown attachment on a rogue monster lite rack. 
+This guide explains how you can successfully install a Titan X-3 Lat Pulldown attachment on a rogue rack. 
 
 You may have noticed that the Titan rack attachments are 42" end-to-end, while most rogue monster lite racks are 43". How do you bridge the gap? 
 
@@ -26,7 +26,7 @@ Fortunately, while titan products aren't always compatible with rogue's due to d
 
 Answer the following question:
 
-1) Do you have a non-flat foot Rogue Monster Lite rack with 4 or more uprights (490/690/custom)? If so, continue. If not, this guide is not meant for you. 
+1) Do you have a non-flat foot Rogue Monster or Monster Lite rack with 4 or more uprights (490/690/custom)? If so, continue. If not, this guide is not meant for you. 
 
 # Step Two: Hardware Purchase List
 
