@@ -65,13 +65,13 @@ Follow the Lat pulldown instructions that come with the Titan attachment. When y
 
 ![Bolt and washer](https://i.imgur.com/bKPhJxj.jpg)
 
-- You will need to add two washers between each upright on the INSIDE, before it connects the Rogue rack to the Titan crossmembers. An example is in this image (note the position of the lock washers and the nuts as well):
+- You will need to add three washers between each upright on the INSIDE, before it connects the Rogue rack to the Titan crossmembers. An example is in this image (note the position of the lock washers and the nuts as well):
 
 ![Extra washers to create spacing](https://i.imgur.com/ljmrZFN.jpg)
 
 ### Bolt installation order:
 
-```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
+```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x3 (x2 if x3 doesn't fit) -> Titan Crossmember -> Lock Washer -> Nut```
 
 ![Extra washers to create spacing](https://i.imgur.com/0sShzv4.png)
 
@@ -120,6 +120,6 @@ Choose a pulldown height:
 
 Follow titan instructions, then screw the attachment and rack together:
 
-```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x2 -> Titan Crossmember -> Lock Washer -> Nut```
+```Hex Bolt -> Large Flat Washer -> Rogue Rack -> Large Flat Washer x3 (2x if 3 don't fit) -> Titan Crossmember -> Lock Washer -> Nut```
 
 ![Extra washers to create spacing](https://i.imgur.com/0sShzv4.png)
